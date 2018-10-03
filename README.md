@@ -4,6 +4,8 @@ Competitive Collaboration Algorithm:
 
 It's a decentralized network where you compete to collaborate.
 
+!![Competitive Collaboration](weighted_graph2.png)
+
 
 
 Edge weight represents difficulty to get connected. Difficulty depends on factors such as distance, location, quality, price.
