@@ -4,7 +4,7 @@ Competitive Collaboration Algorithm:
 
 It's a decentralized network where you compete to collaborate.
 
-!![Competitive Collaboration](weighted_graph2.png)
+![Competitive Collaboration](weighted_graph2.png)
 
 
 
