@@ -1,6 +1,5 @@
 ### Generation of nodes 
 from itertools import combinations
-labels = ['label0', 'label1', 'label2','label3']
 mainlabels = ['teacher','student','content','building' ]
 ## Generation of labels
 all_labels = []
