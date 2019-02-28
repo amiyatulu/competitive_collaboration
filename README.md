@@ -4,6 +4,8 @@ Competitive Collaboration Algorithm:
 
 It's a decentralized network where you compete to collaborate.
 
+https://technoperiod.blogspot.com/2018/10/the-competitive-collaboration-algorithm.html
+
 ![Competitive Collaboration](weighted_graph2.png)
 
 
@@ -37,3 +39,6 @@ Usefulness of the model:
 3) Continuous Improvement: If any single subgraph, even a node of subgraph gets upgraded and refined, it builds a pressure on other subgraph and nodes to upgrade through competition.
 
 4) No burnouts: Nodes shall not suffer from burn out problems as there is a division of work and a division of labor.
+
+![Database Schema](database_schema.png)
+There can be different kinds of weight matrix such as price weight matrix, distance weight matrix and quality weight matrix.
