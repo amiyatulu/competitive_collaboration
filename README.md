@@ -41,4 +41,5 @@ Usefulness of the model:
 4) No burnouts: Nodes shall not suffer from burn out problems as there is a division of work and a division of labor.
 
 ![Database Schema](database_schema.png)
+
 There can be different kinds of weight matrix such as price weight matrix, distance weight matrix and quality weight matrix.
